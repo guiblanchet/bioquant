@@ -28,10 +28,10 @@ interests:
 education:
   courses:
     - course: MS in Applied Biology
-      institution: Universite de Sherbrooke
-      year: 2023
+      institution: Université de Sherbrooke
+      year: 2023 to present
     - course: BASc in Ecology
-      institution: Universite de Sherbrooke
+      institution: Université de Sherbrooke
       year: 2022
 
 # Social/Academic Networking
@@ -73,5 +73,4 @@ Early warning signals and things.
 
 Yeye that.
 
-#Les signaux d'alerte précoce (SAP) sont des indicateurs permettant d’annoncer #l’éventualité d’une transition critique; ils ont d’ailleurs été utilisés à maintes #reprises pour prédire les changements d'abondance de populations. Toutefois, peu #d'études se sont intéressées à l’utilisation des changements dans les traits #phénotypiques comme SAP afin d’anticiper une transition critique; aucune étude notable #n’a encore vérifié cette théorie sur des vertébrés en milieu naturel. 
-#Ainsi, le projet aura comme objectif de prédire les transitions critiques d’une #population de mouflon d’Amérique via l’étude de traits phénotypiques comme SAP, et #d’évaluer leur utilité potentielle en gestion des écosystèmes. Pour ce faire, des #analyses de détection de ruptures seront menées sur une longue série temporelle de 50 #ans décrivant une population de mouflon d’Amérique (Ovis canadensis) à Ram Mountain.
+Using early warning signals to predict critical transitions in at-risk populations (Changes in phenotypic traits through time)
