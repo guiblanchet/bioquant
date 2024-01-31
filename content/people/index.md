@@ -14,7 +14,7 @@ sections:
           - Principal Investigators
           - Researchers
           - Grad Students
-          - Post Doc Students
+          - Postdoc
           - Visitors
           - Alumni
       sort_by: Params.last_name
