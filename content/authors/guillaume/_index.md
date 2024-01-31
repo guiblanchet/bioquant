@@ -6,6 +6,10 @@ title: Guillaume Blanchet
 first_name: F. Guillaume
 last_name: Blanchet
 
+# Username (this should match the folder name)
+authors:
+  - guillaume
+
 # Is this the primary user of the site?
 superuser: true
 
