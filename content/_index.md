@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Quantitative Biology Lab** is a lab headed by the professor F. Guillaume Blanchet, Université de Sherbrooke. The lab is interested in the development of statistical methods and mathematical models specially designed to approach questions in biology.
   
   - block: collection
     content:

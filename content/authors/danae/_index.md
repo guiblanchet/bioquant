@@ -18,7 +18,7 @@ role: X's Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Université de Sherbrooke
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

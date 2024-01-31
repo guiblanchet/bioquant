@@ -14,7 +14,7 @@ role: Professor of Quantitative Biology
 
 # Organizations/Affiliations
 organizations:
-  - name: Universite de Sherbrooke
+  - name: Université de Sherbrooke
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
