@@ -11,7 +11,7 @@ sections:
         Quantitative Biology
         Research Group
       image:
-        filename: welcome.jpg
+        filename: LogoLab.jpg
       text: |
         <br>
         
