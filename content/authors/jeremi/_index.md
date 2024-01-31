@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include critical transitions, early warning signals and traits based analysis.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Critical transitions
+  - Population dynamic models
+  - Early Warning Signals
 
 education:
   courses:
@@ -69,8 +69,8 @@ user_groups:
   - Grad Students
 ---
 
-Early warning signals and things.
-
-Yeye that.
-
 Using early warning signals to predict critical transitions in at-risk populations (Changes in phenotypic traits through time)
+
+The rapid collapse of a population is called a critical transition. Early Warning Signals (EWS) can detect these critical transitions before they occur. EWS have been used repeatedly to directly predict changes in population abundance. However, few studies have focused on using changes in physiological traits to predict critical transitions and none have taken this perspective on vertebrates in the wild. 
+
+The objective of my project is to predict critical transitions in a bighorn sheep population via the study of physiological traits. To do this, I will use breakpoint analyses on time series of physiological traits measured over the last 50 years on bighorn sheep individuals at Ram Mountain.
