@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jérémi Lepage
+title: Jeremi Lepage
 
 # Full Name (for SEO)
 first_name: Jeremi
