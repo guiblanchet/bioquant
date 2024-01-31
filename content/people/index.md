@@ -15,7 +15,7 @@ sections:
           - Researchers
           - Grad Students
           - Postdoc
-          - Undergrad Students
+          - Undergrad
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
