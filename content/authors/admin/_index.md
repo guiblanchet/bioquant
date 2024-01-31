@@ -7,7 +7,7 @@ first_name: Nelson
 last_name: Bighetti
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
