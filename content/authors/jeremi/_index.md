@@ -1,10 +1,14 @@
 ---
 # Display name
-title: Jeremi Lepage
+title: Jérémi Lepage
 
 # Full Name (for SEO)
 first_name: Jeremi
 last_name: Lepage
+
+# Username (this should match the folder name)
+authors:
+  - jeremi
 
 # Is this the primary user of the site?
 superuser: false
