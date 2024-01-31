@@ -3,7 +3,7 @@
 title: Jeremi Lepage
 
 # Full Name (for SEO)
-first_name: Jérémi
+first_name: Jeremi
 last_name: Lepage
 
 # Is this the primary user of the site?
