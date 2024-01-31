@@ -2,7 +2,7 @@
 # Display name
 title: Danae Vaillancourt
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Danae
 last_name: Vaillancourt
 
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad
+  - Visitors
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
