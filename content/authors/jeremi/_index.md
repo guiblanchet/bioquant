@@ -3,14 +3,14 @@
 title: Jeremi Lepage
 
 # Full Name (for SEO)
-first_name: Jeremi
+first_name: Jérémi
 last_name: Lepage
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Masters Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
