@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests primarily focus on understanding a major challenge in theoretical ecology.
+bio: My research interests lie at the intersection of ecology, mathematics, statistical analysis, and quantum computing.
 
 interests:
   - Applied mathematics
