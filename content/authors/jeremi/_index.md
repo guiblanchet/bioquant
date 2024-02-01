@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Applied Biology
+    - course: MSc in Applied Biology
       institution: Université de Sherbrooke
       year: 2023 to present
     - course: BASc in Ecology
