@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Quantitative Biology
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
   - Quantitative Biology
   - Spatiotemporal Modeling
   - Statistics Applied to Ecology
-  - Digital Ecology
+  - Numerical Ecology
   - Community Ecology
   - Multidimensional Analysis
 
