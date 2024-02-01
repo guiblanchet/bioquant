@@ -26,7 +26,7 @@ bio: My research interests lie at the intersection of ecology, mathematics, stat
 
 interests:
   - Applied mathematics
-  - Species Coexistence
+  - Species coexistence
   - Metacommunities
   - Random matrices
   - Quantum computing
