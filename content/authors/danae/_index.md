@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: X's Student
+role: Bachelor's Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests mainly consists of conducting descriptive analysis on the presence/absence of mosquitoes in Canada (Ontario, Quebec).
 
 interests:
   - Models
-  - Ecology
-  - Biology
+  - Ecological relationships
+  - Large mammals
 
 education:
   courses:
-    - course: PhD in X
-      institution: X University
-      year: 20XX
-    - course: MX in X
-      institution: X Institute of Technology
-      year: 20XX
-    - course: BSc in X
-      institution: X Institute of Technology
-      year: 20XX
+    - course: BASc in Ecology
+      institution: Université de Sherbrooke
+      year: 2022 to present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@Usherbrooke.ca'
+    link: 'mailto:danae.vaillancourt@Usherbrooke.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/
@@ -73,6 +67,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests mainly consists of conducting descriptive analysis on the presence/absence of mosquitoes in Canada (Ontario, Quebec).
