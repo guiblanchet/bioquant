@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the lab!
+        content: Take a look at who we are...
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: neige.jpg
             filters:
               brightness: 0.7
           position: right
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Quantitative Biology Lab
+        content: 'Yup!'
         align: right
         background:
           image:
