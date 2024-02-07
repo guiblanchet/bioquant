@@ -8,6 +8,7 @@ Congratulations to Jérémi for winning first place in the spamming UdeS en Spec
 <!--more-->
 
 UdeS en Spectacle, montre moi ton talent, montre moi ta voix... UdeS en Spectacle
+---
 
 # lien
 contact_links:
