@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-2-07
 
 type: landing
 
@@ -9,25 +9,27 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Thank you for your interest in the Quantitative Biology Lab at Université de Sherbrooke, led by Professor F. Guillaume Blanchet. Whether you have questions about our research, are interested in collaboration opportunities, or simply want to reach out, we're here to help.
+
+Please feel free to get in touch with us using the information below:
+      email: guillaume.blanchet@usherbrooke.ca
+      phone: 819 821 8000, 65130
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 2500 Bd de l'Université
+        city: Sherbrooke
+        region: QC
+        # postcode: '94305'
+        country: Canada
+        country_code: CA
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
+        latitude: '45.3743085028'
+        longitude: '-71.9232596403'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      # appointment_url: 'https://calendly.com'
+      # contact_links:
       #  - icon: comments
       #    icon_pack: fas
       #    name: Discuss on Forum
@@ -56,7 +58,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: welcome.jpg
           filters:
             brightness: 1
           parallax: false
