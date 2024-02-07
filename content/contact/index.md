@@ -20,8 +20,8 @@ sections:
         country: Canada
         country_code: CA
       coordinates:
-        latitude: '45.3743085028'
-        longitude: '-71.9232596403'
+        latitude: '45.38042'
+        longitude: '-71.92555'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
