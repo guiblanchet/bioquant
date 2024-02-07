@@ -10,15 +10,14 @@ sections:
       title: Contact
       text: |-
         Thank you for your interest in the Quantitative Biology Lab at Université de Sherbrooke, led by Professor F. Guillaume Blanchet. Whether you have questions about our research, are interested in collaboration opportunities, or simply want to reach out, we're here to help.
-
-Please feel free to get in touch with us using the information below:
+Please feel free to get in touch with us using the information below
       email: guillaume.blanchet@usherbrooke.ca
       phone: 819 821 8000, 65130
       address:
         street: 2500 Bd de l'Université
         city: Sherbrooke
         region: QC
-        # postcode: '94305'
+        postcode: 'J1K2R1'
         country: Canada
         country_code: CA
       coordinates:
@@ -58,7 +57,7 @@ Please feel free to get in touch with us using the information below:
       columns: '1'
       background:
         image: 
-          filename: welcome.jpg
+          filename: contact.jpg
           filters:
             brightness: 1
           parallax: false
