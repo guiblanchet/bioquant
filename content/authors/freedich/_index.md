@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: X's Student
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My project aims to develop statistical models to study spatio-temporal variations.
 
 interests:
-  - Models
+  - Statistical Modeling 
   - Ecology
-  - Biology
+  - Epidemiology 
+  - Machine learning
+  - Deep learning
 
 education:
   courses:
-    - course: PhD in X
-      institution: X University
-      year: 20XX
-    - course: MX in X
-      institution: X Institute of Technology
-      year: 20XX
-    - course: BSc in X
-      institution: X Institute of Technology
-      year: 20XX
+    - course: Ph.D. in Mathematics (major Statistics)
+      institution: University of Sherbrooke
+      year: 2023 -  present
+    - course: MSc in Applied mathematics 
+      institution: University of Pau and Adour people
+      year: 2021
+   - course: MSc in Applied Statistics
+      institution: University of Abomey-Calavi
+      year: 2021
+    - course: BSc in Applied Statistics 
+      institution: University of. Parakou
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +53,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@Usherbrooke.ca'
+    link: 'mailto:noudehouenou.houessou@usherbrooke.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
@@ -73,6 +78,6 @@ user_groups:
   - Grad Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Avian migration is the regular seasonal movement of birds between breeding and wintering grounds along a north-south flyway. It is subject to change in space and time due to environmental variations and other disturbances associated with human activities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My project aims to improve the ecological knowledge of bird migration by developing tools to better understand and predict bird migration in North America. These tools will be used to define an analytical framework for more effective management and conservation of bird biodiversity. Specifically, I will develop statistical models to study spatio-temporal variations in bird populations using citizen science data (point data), survey data (presence-absence and abundance data) and telemetry data. These statistical models will account for sampling bias, seasonal and environmental variations, while being explicit in time and space. Within a statistical framework, these new tools will enable us to exploit new data sources and account for spatial and temporal variations.
