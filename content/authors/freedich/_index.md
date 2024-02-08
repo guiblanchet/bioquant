@@ -35,11 +35,11 @@ education:
   courses:
     - course: Ph.D. in Mathematics (major Statistics)
       institution: University of Sherbrooke
-      year: 2023 -  present
+      year: 2023 to present
     - course: MSc in Applied mathematics 
       institution: University of Pau and Adour people
       year: 2021
-   - course: MSc in Applied Statistics
+    - course: MSc in Applied Statistics
       institution: University of Abomey-Calavi
       year: 2021
     - course: BSc in Applied Statistics 
