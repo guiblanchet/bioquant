@@ -35,12 +35,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Biology
+    - course: Ph.D. in Biology
       institution: Université Laval
       year: 2023
     - course: MSc in Biology
       institution: Université Laval
       year: 2017
+    - course: BSc in Biology (Freshwater and Marine Ecology concentration)
+      institution: Université Laval
+      year: 2014
     
 
 # Social/Academic Networking
