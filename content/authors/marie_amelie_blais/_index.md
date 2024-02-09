@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marie Amélie Blais
+title: Marie-Amélie Blais
 
 # Full name (for SEO)
 first_name: Marieamelie
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: X's Student
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Microbial ecologist fascinated by the microbiomes of high-latitude rivers and their coastal waters. 
 
 interests:
-  - Models
-  - Ecology
-  - Biology
+  - Microbial ecology 
+  - Winter limnology
+  - Aquatic continuum
+  - High-latitude rivers
+  - Coastal water
+  - Polar oceanography	
+  - Metacommunity
 
 education:
   courses:
-    - course: PhD in X
-      institution: X University
-      year: 20XX
-    - course: MX in X
-      institution: X Institute of Technology
-      year: 20XX
-    - course: BSc in X
-      institution: X Institute of Technology
-      year: 20XX
+    - course: PhD in Biology
+      institution: Université Laval
+      year: 2023
+    - course: MSc in Biology
+      institution: Université Laval
+      year: 2017
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@Usherbrooke.ca'
+    link: 'mailto:marie-amelie.blais@usherbrooke.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://twitter.com/_MarieAmelie
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+    link: https://scholar.google.fr/citations?user=brOkeHMAAAAJ&hl=fr&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +72,4 @@ user_groups:
   - Postdocs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my postdoctoral research, I am using environmental DNA to assess the distribution patterns of Brook Charr within a riverine network, and to explore the seasonal dynamics of lake metacommunities.
