@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the development of statistical methods and mathematical models specially designed to approach questions in biology.
+bio: I am interested in developping mathematical and statistical models specifically designed to approach questions in biology.
 
 interests:
   - Quantitative Biology
