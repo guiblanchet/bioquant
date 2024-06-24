@@ -26,11 +26,12 @@ bio: I am interested in developping mathematical and statistical models specific
 
 interests:
   - Quantitative Biology
-  - Spatiotemporal Modeling
-  - Statistics Applied to Ecology
+  - Spatiotemporal Modelling
+  - Statistical Ecology
   - Numerical Ecology
   - Community Ecology
-  - Multidimensional Analysis
+  - Multivariate Modelling
+  - Numerical Health
 
 education:
   courses:
@@ -49,9 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:guillaume.blanchet@usherbrooke.ca'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/guiblanchet3
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/guiblanchet3
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=crGlBSEAAAAJ
@@ -76,6 +77,6 @@ user_groups:
   - Professor
 ---
 
-Guillaume Blanchet is a teacher at Université de Sherbrooke.
+Guillaume Blanchet is an assistant professor at Université de Sherbrooke.
 
 I am interested in the development of statistical methods and mathematical models specially designed to approach questions in biology.
