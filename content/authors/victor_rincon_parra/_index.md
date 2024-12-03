@@ -81,6 +81,9 @@ user_groups:
   - Colombia Bon [https://geobon.org/bons/national-regional-bon/national-bon/colombia-bon/]
 ---
 
+My research interests involve developing workflows, methodologies, and tools to facilitate biodiversity analysis at different scales. 
+
+
 My research interests primarily focus on understanding a major challenge in theoretical ecology: the diversity of species and the complexity of their interactions. I am developing mathematical and numerical methods to study ecological dynamics and network properties. 
 
 Recently, I began studying the promise of quantum computing to address open questions in ecology.
