@@ -8,7 +8,7 @@ last_name: Rincón-Parra
 
 # Username (this should match the folder name)
 authors:
-  - maxime
+  - victor_rincon_parra
 
 # Is this the primary user of the site?
 superuser: false
