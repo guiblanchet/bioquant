@@ -5,9 +5,9 @@ date: 2024-12-03
 type: landing
 
 sections:
-  - block: join
+  - block: contact
     content:
-      title: Join us
+      title: Join u
 #      text: |-
 #              Thank you for your interest in the Quantitative Biology Lab at Université de Sherbrooke, led by Professor F. Guillaume Blanchet. Whether you have questions about our research, are interested in collaboration opportunities, or simply want to reach out, we're here to help. Please feel free to get in touch with us using the information below
 #      email: guillaume.blanchet@usherbrooke.ca
