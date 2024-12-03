@@ -29,6 +29,7 @@ interests:
   - Climate change modeling
   - Landscape analysis 
   - Biodiversity indicators
+  - Conservation prioritization
 
 education:
   courses:
@@ -74,6 +75,4 @@ user_groups:
   - Grad Students
 ---
 
-Avian migration is the regular seasonal movement of birds between breeding and wintering grounds along a north-south flyway. It is subject to change in space and time due to environmental variations and other disturbances associated with human activities.
-
-My project aims to improve the ecological knowledge of bird migration by developing tools to better understand and predict bird migration in North America. These tools will be used to define an analytical framework for more effective management and conservation of bird biodiversity. Specifically, I will develop statistical models to study spatio-temporal variations in bird populations using citizen science data (point data), survey data (presence-absence and abundance data) and telemetry data. These statistical models will account for sampling bias, seasonal and environmental variations, while being explicit in time and space. Within a statistical framework, these new tools will enable us to exploit new data sources and account for spatial and temporal variations.
+My research interests revolve around biodiversity analysis from different perspectives, using modeling and indicators. Currently, I am working on integrating various data sources to improve species distribution models for butterflies and, in doing so, propose conservation areas that are more effective in maintaining these species.
