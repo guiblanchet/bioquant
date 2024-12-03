@@ -27,6 +27,7 @@ bio: I am a conservation biologist with a background in botany and plant ecology
 interests:
   - Conservation biology
   - Conservation planning
+  - Rare species
   - Plant ecology
   - Biogeography
   - Climate change impacts
