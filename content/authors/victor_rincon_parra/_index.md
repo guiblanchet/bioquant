@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Rincón Parra
+title: Victor J Rincón-Parra
 
 # Full name (for SEO)
 first_name: Victor
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,26 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the intersection of ecology, mathematics, statistical analysis, and quantum computing.
+bio: My research interests involve developing workflows, methodologies, and tools to facilitate biodiversity analysis at different scales.
 
 interests:
-  - Applied mathematics
-  - Species coexistence
-  - Metacommunities
-  - Random matrices
-  - Quantum computing
+  - Macroecology
+  - Landscape ecology
+  - Enviromental management
+  - Development of Code and Pipelines for Ecological Analysis (R)
+  - Spatial GIS Analysis
+
 
 education:
   courses:
-    - course: Ph.D. in Applied Mathematics
-      institution: CNRS, Gustave Eiffel University
-      year: 2022
-    - course: MSc in Probability and Finance
-      institution: Sorbonne University
-      year: 2019
-    - course: BSc in Mathematics
-      institution: Lille University
-      year: 2016
+    - course: MSc in Enviromental Management
+      institution: Pontificia Universidad Javeriana de Bogotá
+      year: 2023
+    - course: BSc in Biology
+      institution: Pontificia Universidad Javeriana de Bogotá
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,16 +48,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:maxime.clenet@usherbrooke.ca'
+    link: 'mailto:rincon-v@javeriana.edu.co'
+  - icon: researchgate
+    icon_pack: academicons
+    link: https://www.researchgate.net/profile/Victor-J-Rincon-Parra
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/clenet_maxime
+    link: https://x.com/victorjrincon
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=kKFhWpoAAAAJ
+    link: https://scholar.google.com/citations?user=QUlTw7UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/maxime-clenet
+    link: https://github.com/vicjulrin
+  - icon: linkedin
+    icon_pack: brands
+    link: https://www.linkedin.com/in/victor-rincon-parra-433970148/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,8 +76,13 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - QCBS [https://qcbs.ca/student-member/?student=3468]
+  - GEO BON [https://geobon.org/]
+  - Colombia Bon [https://geobon.org/bons/national-regional-bon/national-bon/colombia-bon/]
 ---
+
+My research interests involve developing workflows, methodologies, and tools to facilitate biodiversity analysis at different scales. 
+
 
 My research interests primarily focus on understanding a major challenge in theoretical ecology: the diversity of species and the complexity of their interactions. I am developing mathematical and numerical methods to study ecological dynamics and network properties. 
 
