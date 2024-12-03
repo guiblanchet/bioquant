@@ -76,14 +76,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - QCBS [https://qcbs.ca/student-member/?student=3468]
-  - GEO BON [https://geobon.org/]
-  - Colombia Bon [https://geobon.org/bons/national-regional-bon/national-bon/colombia-bon/]
+  - Grad Students
 ---
 
-My research interests involve developing workflows, methodologies, and tools to facilitate biodiversity analysis at different scales. 
-
-
-My research interests primarily focus on understanding a major challenge in theoretical ecology: the diversity of species and the complexity of their interactions. I am developing mathematical and numerical methods to study ecological dynamics and network properties. 
-
-Recently, I began studying the promise of quantum computing to address open questions in ecology.
+My research interests involve developing workflows, methodologies, and tools to facilitate biodiversity analysis at different scales.
