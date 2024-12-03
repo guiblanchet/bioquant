@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: X's Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -31,15 +31,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in X
-      institution: X University
-      year: 20XX
-    - course: MX in X
-      institution: X Institute of Technology
-      year: 20XX
-    - course: BSc in X
-      institution: X Institute of Technology
-      year: 20XX
+  #  - course: PhD in X
+  #    institution: X University
+  #    year: 20XX
+  #  - course: MX in X
+  #    institution: X Institute of Technology
+  #    year: 20XX
+    - course: BSc in Ecology
+      institution: Université de Sherbrooke
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@Usherbrooke.ca'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:marilou.cournoyer@Usherbrooke.ca'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/mariloucournoyer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +73,8 @@ user_groups:
   - Grad Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+What role do functional traits play in the distribution of bird species in boreal forests and their response to global changes?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Boreal forests are highly vulnerable to major biodiversity changes driven by climate change, making boreal birds among the most at-risk avian communities. Functional traits, which influence species fitness, provide a valuable framework for predicting ecological communities. However, their role in shaping boreal bird communities under global change remains unexplored.
+
+The objective of my project is to examine the associations between the functional traits of boreal birds and the main habitat types in boreal forests, and to assess how these traits influence the response of bird species to global changes.

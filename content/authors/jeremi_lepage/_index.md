@@ -8,7 +8,7 @@ last_name: Lepage
 
 # Username (this should match the folder name)
 authors:
-  - jeremi
+  - jeremi_lepage
 
 # Is this the primary user of the site?
 superuser: false
@@ -48,7 +48,7 @@ social:
     link: 'mailto:jeremi.lepage2@usherbrooke.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://x.com/LepageJeremi
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/
