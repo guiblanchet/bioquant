@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Grad Students
 ---
 
 My research interests primarily focus on understanding a major challenge in theoretical ecology: the diversity of species and the complexity of their interactions. I am developing mathematical and numerical methods to study ecological dynamics and network properties. 
