@@ -8,13 +8,13 @@ last_name: Houessou
 
 # Username (this should match the folder name)
 authors:
-  - freedich
+  - freedich_houessou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:

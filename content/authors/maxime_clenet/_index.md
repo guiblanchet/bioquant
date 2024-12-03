@@ -8,7 +8,7 @@ last_name: Clenet
 
 # Username (this should match the folder name)
 authors:
-  - maxime
+  - maxime_clenet
 
 # Is this the primary user of the site?
 superuser: false
