@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Maxime Clenet
+title: Victor Rincón Parra
 
 # Full name (for SEO)
-first_name: Maxime
-last_name: Clenet
+first_name: Victor
+last_name: Rincón-Parra
 
 # Username (this should match the folder name)
 authors:
