@@ -44,7 +44,7 @@ education:
       year: 2021
     - course: BSc in X
       institution: University of X
-      year: 2xxx
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
