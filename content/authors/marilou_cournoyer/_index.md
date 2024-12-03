@@ -31,12 +31,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in X
-      institution: X University
-      year: 20XX
-    - course: MX in X
-      institution: X Institute of Technology
-      year: 20XX
+  #  - course: PhD in X
+  #    institution: X University
+  #    year: 20XX
+  #  - course: MX in X
+  #    institution: X Institute of Technology
+  #    year: 20XX
     - course: BSc in Ecology
       institution: Université de Sherbrooke
       year: 2023
@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:X@Usherbrooke.ca'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:marilou.cournoyer@Usherbrooke.ca'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/mariloucournoyer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
