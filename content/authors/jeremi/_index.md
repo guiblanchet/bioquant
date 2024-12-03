@@ -48,7 +48,7 @@ social:
     link: 'mailto:jeremi.lepage2@usherbrooke.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://x.com/LepageJeremi
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/
