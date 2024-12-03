@@ -25,18 +25,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Models
-  - Ecology
-  - Biology
+  - Biogeography
+  - Community ecology
+  - Multivariate modeling
 
 education:
   courses:
   #  - course: PhD in X
   #    institution: X University
   #    year: 20XX
-  #  - course: MX in X
-  #    institution: X Institute of Technology
-  #    year: 20XX
+    - course: MSc in Applied Biology
+      institution: Université de Sherbrooke
+      year: 2023 to present
     - course: BSc in Ecology
       institution: Université de Sherbrooke
       year: 2023
