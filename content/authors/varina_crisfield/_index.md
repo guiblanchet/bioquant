@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maxime Clenet
+title: Varina Crisfield
 
 # Full name (for SEO)
 first_name: Maxime
@@ -48,9 +48,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: user
-    icon_pack: fab
-    link: https://maximeclenet.com
   - icon: envelope
     icon_pack: fas
     link: 'mailto:maxime.clenet@usherbrooke.ca'
