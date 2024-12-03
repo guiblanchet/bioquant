@@ -50,15 +50,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'maria.camila.diaz.corzo@usherbrooke.ca'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/schhp?hl=en
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/schhp?hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/MC-DC
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
