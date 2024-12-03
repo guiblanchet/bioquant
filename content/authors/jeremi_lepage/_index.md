@@ -8,7 +8,7 @@ last_name: Lepage
 
 # Username (this should match the folder name)
 authors:
-  - jeremi
+  - jeremi_lepage
 
 # Is this the primary user of the site?
 superuser: false
