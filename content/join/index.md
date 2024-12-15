@@ -8,8 +8,20 @@ sections:
   - block: contact
     content:
       title: Join us
-#      text: |-
-#              Thank you for your interest in the Quantitative Biology Lab at Université de Sherbrooke, led by Professor F. Guillaume Blanchet. Whether you have questions about our research, are interested in collaboration opportunities, or simply want to reach out, we're here to help. Please feel free to get in touch with us using the information below
+      text: |-
+            
+            We are always open to inquiries from potential students interested in pursueing graduate studies (MSc or PhD) in our group. We look for motivated students interested by statistical biology and mathematical biology with a focus on ecology and health science. As such, we expect candidates with strong skills in modeling, mathematics and programming, who are autonomous and interested in being part of a dynamic and diverse research group.
+
+            We encourage students to develop their own research project in line with the research carried out in the group. Because science is often about thinking outside the box, we look for creative students with a strong interest in modelling biological systems across ecology and the health sciences.
+
+            Students interested in conducting graduate studies within the *Quantitative Biology Lab* should send their CV, a copy of their transcripts and a short statement of their research interest to [guillaume.blanchet@usherbrooke.ca](mailto:guillaume.blanchet@usherbrooke.ca).
+
+            The *Quantitative Biology Lab* is located at Université de Sherbrooke. As the group carries out research at the intersection of biology, mathematics and health science, student in the group can pursue studies in [Biology](https://www.usherbrooke.ca/biologie/futurs-etudiants/2e-et-3e-cycles-recherche), [Mathematics](https://www.usherbrooke.ca/mathematiques/futurs-etudiants/2e-et-3e-cycles-recherche) and [Health science](https://www.usherbrooke.ca/medecine/recherche/etudier-en-recherche).
+
+#              **PhD Opportunity** 
+              
+#              We are seeking a motivated PhD student to join our research team in developing advanced methods for phylogenetic network analysis, with a specific focus on network consensus algorithms. Significant progress has been made in consensus tree methodologies. A consensus tree is a phylogenetic tree that synthesizes multiple phylogenetic trees, each with the same leaf labels but possibly differing topologies. These trees are often generated through bootstrapping or other sampling techniques. Traditional approaches to consensus tree construction focus primarily on topological aspects, often overlooking the importance of branch length, which captures the temporal progression of genetic mutations. However, in the context of consensus networks, very few studies have introduced relevant concepts.
+              
 #      email: guillaume.blanchet@usherbrooke.ca
 #      phone: 819 821 8000, 65130
 #      address:
